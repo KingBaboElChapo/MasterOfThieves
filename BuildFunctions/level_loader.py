@@ -9,7 +9,7 @@ from Entities.door import Door
 from Entities.coins import Coins
 from Entities.spike import Spike
 from Entities.trophies import Trophy
-from Display.display import Display
+from display.display import Display
 from BuildFunctions.directory import Directory
 
 Display = Display()
